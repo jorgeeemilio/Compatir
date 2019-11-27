@@ -12,7 +12,10 @@ public class Compartir
 	{
 		variable = v;
 	}
-	
+	public void vacia()
+	{
+		// No hace nada
+	}
 	public int getVariable()
 	{
 		return variable;
